@@ -2,7 +2,7 @@
 
 
 
-Running at: <https://ucsb-cs156-f26.github.io/jpa03-cmendietaa/>
+Running at: <https://jpa03-cmendietaa.dokku-10.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
 
