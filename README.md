@@ -2,7 +2,7 @@
 
 
 
-Running at: <https://jpa03-cmendietaa.dokku-10.cs.ucsb.edu/>
+Running at: <https://jpa03-cmendietaa.dokku-10.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
